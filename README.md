@@ -9,8 +9,8 @@ Installation Steps
 Clone the repository:
 bash
 Copy code
-git clone [your repository URL]
-cd [your project name]
+git clone https://github.com/AbuMuhammad92/miproject.git
+cd miproject
 Launch the services using Docker Compose:
 bash
 Copy code
